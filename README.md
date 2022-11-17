@@ -1,4 +1,4 @@
-#IBM-Project-9870-1659082262
+IBM-Project-9870-1659082262
 Plasma Donor Application
 
 
@@ -23,7 +23,7 @@ Team Id:PNT2022TMID05086
 
 
 
-#🧑‍💻Team Members:
+🧑‍💻Team Members:
 
 
 SOWMIYA G
@@ -37,7 +37,7 @@ SONA BHARATHI G
 SRI VIDHYA P
 
 
-#📝 PROJECT DESCRIPTION
+📝 PROJECT DESCRIPTION
 
 
 
