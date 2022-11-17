@@ -26,6 +26,8 @@
 <h2>🧑‍💻Team Members:<h2>
 
 
+ 
+ 
  SOWMIYA G
 
  SOWMIYA K
@@ -37,7 +39,7 @@
  SRI VIDHYA P
 
 
-📝 PROJECT DESCRIPTION
+<h2>📝 PROJECT DESCRIPTION<h2>
 
 
 
