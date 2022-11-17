@@ -1,5 +1,5 @@
 IBM-Project-9870-1659082262
-Plasma Donor Application
+<h2>Plasma Donor Application</h2>
 
 
 ![HomePage](https://user-images.githubusercontent.com/65237742/202517860-66e0b882-938f-4dd5-802b-8649c3591f55.png)
@@ -18,12 +18,12 @@ Plasma Donor Application
 
 
 
-Team Id:PNT2022TMID05086
+<h1>Team Id:PNT2022TMID05086</h1>
 
 
 
 
-🧑‍💻Team Members:
+<h2>🧑‍💻Team Members:<h2>
 
 
  SOWMIYA G
